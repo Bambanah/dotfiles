@@ -5,7 +5,7 @@ start_pcloud &
 start_redshift &
 start_dunst &
 nordvpn c &
-
+killall plasmashell &
 
 # --- Environment Variables ---
 
